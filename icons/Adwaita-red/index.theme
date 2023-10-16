@@ -183,6 +183,13 @@ MinSize=8
 MaxSize=512
 Type=Scalable
 
+[scalable/apps]
+Context=Applications
+Size=96
+MinSize=16
+MaxSize=512
+Type=Scalable
+
 [symbolic-up-to-32/status]
 Context=Status
 Size=16
