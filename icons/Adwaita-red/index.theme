@@ -21,7 +21,7 @@ PanelDefault=32
 PanelSizes=16,22,32,48,64,72,96,128
 
 # Directory list
-Directories=16x16/actions,16x16/apps,16x16/categories,16x16/devices,16x16/emblems,16x16/emotes,16x16/legacy,16x16/mimetypes,16x16/places,16x16/status,16x16/ui,scalable/devices,scalable/mimetypes,scalable/places,scalable/status,scalable/actions,scalable/apps,scalable/categories,scalable/devices,scalable/emblems,scalable/emotes,scalable/mimetypes,scalable/places,scalable/status,scalable/legacy,scalable/ui,symbolic-up-to-32/status,symbolic/actions,symbolic/apps,symbolic/categories,symbolic/devices,symbolic/emblems,symbolic/emotes,symbolic/mimetypes,symbolic/places,symbolic/status,symbolic/legacy,symbolic/ui,apps/scalable,apps@2x/scalable,
+Directories=16x16/actions,16x16/apps,16x16/categories,16x16/devices,16x16/emblems,16x16/emotes,16x16/legacy,16x16/mimetypes,16x16/places,16x16/status,16x16/ui,scalable/devices,scalable/mimetypes,scalable/places,scalable/status,scalable/actions,scalable/apps,scalable/apps@2x,scalable/categories,scalable/devices,scalable/emblems,scalable/emotes,scalable/mimetypes,scalable/places,scalable/status,scalable/legacy,scalable/ui,symbolic-up-to-32/status,symbolic/actions,symbolic/apps,symbolic/categories,symbolic/devices,symbolic/emblems,symbolic/emotes,symbolic/mimetypes,symbolic/places,symbolic/status,symbolic/legacy,symbolic/ui,
 
 [16x16/actions]
 Context=Actions
@@ -114,6 +114,13 @@ MaxSize=512
 Type=Scalable
 
 [scalable/apps]
+Context=Applications
+Size=96
+MinSize=16
+MaxSize=512
+Type=Scalable
+
+[scalable/apps@2x]
 Context=Applications
 Size=96
 MinSize=16
@@ -267,17 +274,4 @@ MinSize=8
 MaxSize=512
 Type=Scalable
 
-[apps/scalable]
-Context=Applications
-Size=96
-MinSize=16
-MaxSize=512
-Type=Scalable
-
-[apps@2x/scalable]
-Size=96
-Context=Applications
-MinSize=16
-MaxSize=512
-Type=Scalable
 
