@@ -10,11 +10,17 @@ This implements the colors from the extension [custom-accent-colors](https://git
 ### Installation Script
 
 Download and run [adw-colors.sh](https://github.com/AtiusAmy/AdwaitaColors/blob/main/adw-colors.sh)
+or
+Run `wget -N -P $HOME https://raw.githubusercontent.com/AtiusAmy/AdwaitaColors/main/adw-colors.sh && chmod +x $HOME/adw-colors.sh && $HOME/adw-colors.sh && rm $HOME/adw-colors.sh` in the terminal.
 
 Select your color and walla :3
 
 ### Manual Install
 
 Grab the files from [release](https://github.com/AtiusAmy/AdwaitaColors/releases/tag/1.0) and put it in `~/.local/share/icons`
+
+### GUI Installer
+
+Soon I hope :P
 
 
