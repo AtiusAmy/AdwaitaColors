@@ -9,7 +9,9 @@ This implements the colors from the extension [custom-accent-colors](https://git
 
 ### Installation Script
 
-Run download 
+Download and run [adw-colors.sh](https://github.com/AtiusAmy/AdwaitaColors/blob/main/adw-colors.sh)
+
+Select your color and walla :3
 
 ### Manual Install
 
