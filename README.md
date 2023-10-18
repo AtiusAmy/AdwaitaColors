@@ -7,8 +7,12 @@ This implements the colors from the extension [custom-accent-colors](https://git
 
 ## How to install?
 
-Grab the files from [release](https://github.com/AtiusAmy/AdwaitaColors/releases/tag/1.0) and put it in `~/.local/share/icons`
+### Installation Script
 
-There will be an installation script sometimes in the future :3
+Run download 
+
+### Manual Install
+
+Grab the files from [release](https://github.com/AtiusAmy/AdwaitaColors/releases/tag/1.0) and put it in `~/.local/share/icons`
 
 
