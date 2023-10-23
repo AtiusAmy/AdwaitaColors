@@ -23,4 +23,7 @@ Grab the files from [release](https://github.com/AtiusAmy/AdwaitaColors/releases
 
 Soon I hope :P
 
+### Credit
 
+GNOME for the default Nautilus icon
+[@heliguy](https://github.com/heliguy4599)
