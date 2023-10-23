@@ -25,5 +25,5 @@ Soon I hope :P
 
 ### Credit
 
-GNOME for the default Nautilus icon
-[@heliguy](https://github.com/heliguy4599)
+- GNOME for the default Nautilus and Adwaita folders icons.
+- [@heliguy](https://github.com/heliguy4599)for making the install script.
