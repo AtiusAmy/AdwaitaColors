@@ -1,3 +1,7 @@
+# This Repository is now Archived ⚠️🚧
+
+## While, I do like making icon themes. I have decided to quit the Linux space altogether. I hope you don't mind my decision. Feel free to fork anytime. 
+
 # AdwaitaColors
 This implements the colors from the extension [custom-accent-colors](https://github.com/dimitriskp22/custom-accent-colors) into Adwaita folders
 
